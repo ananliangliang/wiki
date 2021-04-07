@@ -10,7 +10,7 @@ import javax.persistence.Id;
 /** 电子书 */
 @Data
 @Entity
-public class EBook {
+public class Ebook {
     /** id */
     private @Id @GeneratedValue Long id;
 
